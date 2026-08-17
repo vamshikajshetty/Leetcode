@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/vamshikajshetty/Leetcode/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/vamshikajshetty/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vamshikajshetty/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0881-boats-to-save-people](https://github.com/vamshikajshetty/Leetcode/tree/master/0881-boats-to-save-people) |
 ## Hash Table
 |  |
 | ------- |
@@ -47,15 +48,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vamshikajshetty/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0345-reverse-vowels-of-a-string](https://github.com/vamshikajshetty/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/vamshikajshetty/Leetcode/tree/master/0443-string-compression) |
+| [0881-boats-to-save-people](https://github.com/vamshikajshetty/Leetcode/tree/master/0881-boats-to-save-people) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/vamshikajshetty/Leetcode/tree/master/0011-container-with-most-water) |
+| [0881-boats-to-save-people](https://github.com/vamshikajshetty/Leetcode/tree/master/0881-boats-to-save-people) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/vamshikajshetty/Leetcode/tree/master/0015-3sum) |
 | [0242-valid-anagram](https://github.com/vamshikajshetty/Leetcode/tree/master/0242-valid-anagram) |
+| [0881-boats-to-save-people](https://github.com/vamshikajshetty/Leetcode/tree/master/0881-boats-to-save-people) |
 ## Binary Search
 |  |
 | ------- |
@@ -68,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/vamshikajshetty/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/vamshikajshetty/Leetcode/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
